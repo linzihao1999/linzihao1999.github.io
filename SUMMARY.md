@@ -2,6 +2,6 @@
 
 * [Welcome](README.md)
 
-## Group 1
+## Personal
 
-* [Page 1](group-1/page-1.md)
+* [Prompts](personal/prompts.md)
